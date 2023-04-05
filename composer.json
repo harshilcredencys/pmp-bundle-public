@@ -1,0 +1,16 @@
+{
+  "name": "harshilcredencys/pmpBundlePublic",
+  "description": "Generate the hello world test file",
+  "type": "library",
+  "require": {
+    "php": ">=8.1.17"
+  },
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "harshilcredencys",
+      "email": "harshil.rajpura@credencys.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
