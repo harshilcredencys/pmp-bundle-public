@@ -1,5 +1,5 @@
 {
-  "name": "harshilcredencys/pmpBundlePublic",
+  "name": "harshilcredencys/pmp-bundle-public",
   "description": "Generate the hello world test file",
   "type": "library",
   "require": {
